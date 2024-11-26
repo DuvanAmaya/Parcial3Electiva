@@ -1,0 +1,7 @@
+{
+    "rewrites": [
+      { "source": "/", "destination": "/RegistroEmpleado/index.html" },
+      { "source": "/RegistroProgramaAcademico", "destination": "/RegistroProgramaAcademico/index.html" }
+    ]
+  }
+  
